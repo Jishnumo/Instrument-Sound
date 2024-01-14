@@ -22,26 +22,56 @@ div.mainhdng:hover{
 main{
     display: flex;
     flex-wrap: wrap;
+    
     align-items: center;
-    justify-content: space-around;
+    justify-content: space-between;
+    margin:4rem;
 }
 h1.flute{
+    display: flex;
+    justify-content: center;
+    align-items: center;
     height: 200px;
     width: 200px;
+    background-color: aquamarine;
+}
+h1.drums{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+    width: 200px;
+    background-color: aquamarine;
 }
 h1.violene{
+    display: flex;
+    justify-content: center;
+    align-items: center;
     height: 200px;
     width: 200px;
+    background-color: aquamarine;
 }
 h1.guitar{
+    display: flex;
+    justify-content: center;
+    align-items: center;
     height: 200px;
     width: 200px;
+    background-color: aquamarine;
 }
 h1.piano{
+    display: flex;
+    justify-content: center;
+    align-items: center;
     height: 200px;
     width: 200px;
+    background-color: aquamarine;
 }
-videoh1.tabala{
+h1.tabala{
+    display: flex;
+    justify-content: center;
+    align-items: center;
     height: 200px;
     width: 200px;
+    background-color: aquamarine;
 }
