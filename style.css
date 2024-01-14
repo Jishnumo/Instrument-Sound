@@ -19,3 +19,29 @@ div.mainhdng{
 div.mainhdng:hover{
     color: #9a2272;
 }
+main{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-around;
+}
+h1.flute{
+    height: 200px;
+    width: 200px;
+}
+h1.violene{
+    height: 200px;
+    width: 200px;
+}
+h1.guitar{
+    height: 200px;
+    width: 200px;
+}
+h1.piano{
+    height: 200px;
+    width: 200px;
+}
+videoh1.tabala{
+    height: 200px;
+    width: 200px;
+}
