@@ -4,6 +4,7 @@
 }
 body{
     background-image: linear-gradient(135deg, #FFE4D6 10%, #FACBEA 100%);
+
     
 }
 header{
@@ -18,7 +19,7 @@ div.mainhdng{
     
 }
 @keyframes mnhding {
-    
+
     
 }
 main{
@@ -35,6 +36,7 @@ h1.flute{
     height: 200px;
     width: 200px;
     border-radius: 10px;
+    box-shadow: 8px 10px 18px rgba(0, 0, 0, 0.346);
     background-color: #4158D0;
     background-color: #3EECAC;
     background-image: linear-gradient(19deg, #3EECAC 0%, #EE74E1 100%);
@@ -45,7 +47,6 @@ h1.flute:hover{
     background-image: url("https://plus.unsplash.com/premium_photo-1676111266245-7c8822d29a24?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D");
     background-position: center;
     background-size: contain;
-    
     border-radius: 25px;
     height: 160px;
     width: 200px;
@@ -82,6 +83,7 @@ h1.piano{
     height: 200px;
     width: 200px;
     background-color: aquamarine;
+    cursor: pointer;
 }
 h1.tabala{
     display: flex;
